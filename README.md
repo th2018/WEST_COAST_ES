@@ -4,3 +4,5 @@ This Python code downloads the 2025 US state boundaries from the Census Bureau's
 
 intersect.ipynb: 
 This code loads two boundary datasets, selects all forest polygons that intersect the combined WA–OR–CA boundary polygons, and then saves the resulting subset as a new shapefile.
+
+mask_boxplot.ipynb:
