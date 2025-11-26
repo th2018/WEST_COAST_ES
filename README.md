@@ -8,8 +8,8 @@ This code loads two boundary datasets, selects all forest polygons that intersec
 mask_boxplot.ipynb:
 This code extracts pixel values from a raster within each polygon of a GeoDataFrame, collects them into a long-format DataFrame labeled by polygon, computes the median per polygon to sort them, and then creates a boxplot showing the distribution of raster values for each polygon ordered by increasing median.
 
+mtbs_burn_count.ipynb:
+rasterizes MTBS polygons into a grid where each pixel records how many wildfire polygons overlap it, then saves the result as a GeoTIFF and reports summary statistics.
+
 terraclimate.ipynb:
 The code extracts the time slice of the Climatic Water Deficit variable from a TerraClimate NetCDF file and exports it as a properly georeferenced single-band GeoTIFF.
-
-.ipynb:
-rasterizes MTBS polygons into a grid where each pixel records how many wildfire polygons overlap it, then saves the result as a GeoTIFF and reports summary statistics.
