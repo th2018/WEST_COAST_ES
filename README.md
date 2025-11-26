@@ -10,3 +10,6 @@ This code extracts pixel values from a raster within each polygon of a GeoDataFr
 
 terraclimate.ipynb:
 The code extracts the time slice of the Climatic Water Deficit variable from a TerraClimate NetCDF file and exports it as a properly georeferenced single-band GeoTIFF.
+
+.ipynb:
+rasterizes MTBS polygons into a grid where each pixel records how many wildfire polygons overlap it, then saves the result as a GeoTIFF and reports summary statistics.
