@@ -1,0 +1,55 @@
+---
+title: "Attendee"
+author: "Tao Huang"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Load the library "read_excel" to import multiple excel sheets into in R.
+```{r echo=T,results='hide' , include=TRUE, message=FALSE }
+#install.packages("readxl")
+library("readxl")  # Import excel files into R. 
+```
+
+# Read data.
+```{r ,results='hide' , include=TRUE }
+ 
+file<-"Attendee-5.xlsx"
+
+df<-read_excel(file , sheet = "Sheet1" )
+
+#df
+```
+
+```{r ,results='hide' , include=TRUE}
+
+
+
+df_both <- df[df$`What date(s) will you attend?` == "Both" , ]
+
+df_both <- df_both[!is.na(df_both$Name) ,]
+
+#unique( df_both$Name)
+
+#df_both
+
+```
+
+```{r}
+df_both$`Disturbance expertise (wildfires, insect-outbreaks, etc)`
+```
+
+```{r}
+df_both$`Ecosystem service (https://docs.google.com/document/d/1lhXZHbnICFyh6Z5le5lUqLLl52HdNMMZl0JD9aXWMfo/edit?usp=sharing)`
+```
+
+```{r}
+df_both$`State of study area (WA, OR, CA or other, please indicate)`
+```
+
+```{r}
+df_both$`Key words`
+```
+
