@@ -1,0 +1,25 @@
+,Susceptibility,Dataset,Count
+0,wildfires,Lidar,2
+1,wildfires,GNN,2
+2,wildfires,USFS R6 ecology group,2
+3,wildfires,field monitoring data,1
+4,wildfires,CA FRID (USFS & CAL FIRE),1
+5,wildfires,USFS DEM,1
+6,wildfires,USFS spatial data,1
+7,wildfires,regional ecology program departure data,1
+8,wildfires,LEMMA,1
+9,wildfires,LANDFIRE fuels,1
+10,droughts,GNN,2
+11,droughts,USFS R6 ecology group,2
+12,droughts,Lidar,1
+13,droughts,Basin Characterization Model (BCM),1
+14,droughts,PRISM,1
+15,droughts,regional ecology program departure data,1
+16,insect outbreaks,The National Insect and Disease Risk Map (NIDRM) ,2
+17,insect outbreaks,GNN,2
+18,insect outbreaks,USFS R6 ecology group,2
+19,insect outbreaks,Lidar,1
+20,insect outbreaks,Eveg,1
+21,insect outbreaks,Landfire,1
+22,insect outbreaks,regional ecology program departure data,1
+23,insect outbreaks,"a Landscape Evaluation (based on photo-interpretation of the entire watershed at a 1:12,000 scale) methodology",1

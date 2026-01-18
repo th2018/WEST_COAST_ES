@@ -1,0 +1,32 @@
+,Susceptibility,Indicator,Count
+0,wildfires,Fuel loading,2
+1,wildfires,FRID,1
+2,wildfires,Tree density,1
+3,wildfires,Slope,1
+4,wildfires,WUI,1
+5,wildfires,Departure data,1
+6,wildfires,Forest density,1
+7,wildfires,Potential Vegetation,1
+8,wildfires,Current Structure,1
+9,wildfires,NRV departure,1
+10,wildfires,Forest density and basal area,1
+11,droughts,Annual precipitation,2
+12,droughts,Forest density,2
+13,droughts,Climatic water deficit (CWD),2
+14,droughts,Tree density,1
+15,droughts,Departure data,1
+16,droughts,Potential Vegetation,1
+17,droughts,Current Structure,1
+18,droughts,NRV departure,1
+19,droughts,basal area,1
+20,insect outbreaks,Forest type,2
+21,insect outbreaks,Forest density,2
+22,insect outbreaks,Tree density,1
+23,insect outbreaks,Departure data,1
+24,insect outbreaks,Species diversity,1
+25,insect outbreaks,Potential Vegetation,1
+26,insect outbreaks,Current Structure,1
+27,insect outbreaks,NRV departure,1
+28,insect outbreaks,% of BA at risk of dying over the next 15 years,1
+29,insect outbreaks,basal area,1
+30,insect outbreaks,climatic water deficit (CWD),1
