@@ -1,0 +1,11 @@
+,Hazard,Indicator,Count
+0,wildfires,Regeneration probability,2
+1,wildfires,Short-interval re-burn,1
+2,wildfires,annual fire perimeters,1
+3,wildfires,frequency relative to expected,1
+4,wildfires,Distance to small diameter processing facilities,1
+5,wildfires,"Demographics, potential workforce",1
+6,droughts,species diversity,1
+7,droughts,presence of drought-adapted species,1
+8,insect outbreaks,Remnant live tree canopy,1
+9,insect outbreaks,species diversity at stand and landscape levels,1
