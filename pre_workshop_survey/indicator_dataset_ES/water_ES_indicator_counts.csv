@@ -1,0 +1,14 @@
+,Ecosystem service,Indicator,Count
+0,water,Precipitation,3
+1,water,Snowpack,3
+2,water,April SWE,1
+3,water,Climatic Water Deficit,1
+4,water,Annual or seasonal precipitation,1
+5,water,"Reservoir storage
+",1
+6,water,USFS Forests to Faucets dataset; https://www.fs.usda.gov/ecosystemservices/FS_Efforts/forests2faucets.shtml,1
+7,water,Liu et al. 2022 - role of NFS and other forests lands in providing surface drinking water supply (https://research.fs.usda.gov/treesearch/64978),1
+8,water,Water Supply Importance,1
+9,water,Evapotranspiration (ET),1
+10,water,Groundwater recharge,1
+11,water,Surface runoff,1
