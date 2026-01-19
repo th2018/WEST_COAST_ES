@@ -1,0 +1,17 @@
+,Hazard,Indicator,Count
+0,wildfires,Burn probability,3
+1,wildfires,Energy Release Component,1
+2,wildfires,POD Risk Summaries,1
+3,wildfires,Flame length,1
+4,wildfires,Projected future burn probabilities,1
+5,wildfires,Vapor Pressure Deficit,1
+6,wildfires,Soil moisture,1
+7,wildfires,flame length and spread rate,1
+8,wildfires,ember production,1
+9,droughts,Climatic Water Deficit,2
+10,droughts,VPD,1
+11,droughts,Drought Intensity,1
+12,insect outbreaks,mortality severity,2
+13,insect outbreaks,tree mortality,1
+14,insect outbreaks,Insect-caused mortality,1
+15,insect outbreaks,Insect-driven tree mortality models based on FIA,1
